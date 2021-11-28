@@ -16,5 +16,6 @@ public class Mileage
 		
 		//output
 		System.out.println("Miles" + "Per" + "Gallon:" + mpg);
+		//out a this
 	}
 }
